@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on some more projects as a Content Editor for the moment.
 - 📫 How to reach me, here is my email synssn@gmail.com
 
-[![Linkedin](https://img.shields.io/Linkedin/)]((https://www.linkedin.com/in/sergio-santamaria-nora/))
 
 <!---
 SergioSNW/SergioSNW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
