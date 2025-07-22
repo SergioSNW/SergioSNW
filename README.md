@@ -5,15 +5,17 @@
 - 💞️ I’m looking to collaborate on some more projects as a Content Editor for the moment.
 - 📫 How to reach me, here is my email synssn@gmail.com
 
-**🤔 STATUS:**  Stuck in a never-ending quest for wisdom called philosophy :seedling:
+**🤔 STATUS:**  Stuck in "Introduction to Algorithms (CLRS) by Thomas H. Cormen..." :seedling:
 
-**🐝 FAVORITE QUOTE:**  "Computer is not the thing. It's the thing that gets you to the thing." - Halt & Catch Fire (TV Show)
+**🐝 FAVORITE QUOTE:**  "It's not whether you get knocked down; it's whether you get up." - Vince Lombardi
 
-**💎 JOB:** Ruby on Rails Fullstack Developer (Freelancer) 
+**💎 JOB:** Building Projects, Learning Online and Waiting for a Newborn.
 
-**💻 LANGUAGES:** PHP, Python, Javascript, Typescript
+**💻 LANGUAGES:** PHP, Python, Javascript, Typescript, A bit of Java and C++
 
-**💻 FRAMEWORKS:** Laravel 11, React.JS, Express.JS, Redux.JS, 
+**💻 FRAMEWORKS:** Laravel 11, React.JS, Express.JS, Redux.JS, WordPress
+
+**💻 OTHER:** Unreal Engine 5, Blender 3D, Unity 3D, Audacity, Canva
 
 **❤️ HOBBIES:** Videogames, Doggies, Metal and Watches.
 
