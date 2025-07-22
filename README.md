@@ -1,11 +1,8 @@
 # Hi, I'm Sergio and I am a Developer  :wave:
 
-
-- 🌱 I’m currently learning Full-Stack Engineer at CodeCademy.
-- 💞️ I’m looking to collaborate on some more projects as a Content Editor for the moment.
-- 📫 How to reach me, here is my email synssn@gmail.com
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Santamaria_Nora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-santamaria-nora/)
-  [![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sergiosn.com/homepage/)
+  [![Web](https://img.shields.io/badge/Web-Portfolio_Web-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sergiosn.com/homepage/)
+  [![Email](https://img.shields.io/badge/Web-Send_Email-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sergiosn.com/homepage/)
 
 **🤔 STATUS:**  Stuck in "Introduction to Algorithms (CLRS) by Thomas H. Cormen..." :seedling:
 
