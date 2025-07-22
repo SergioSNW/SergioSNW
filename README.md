@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @SergioSNW
-- 👀 I’m a Web Development, Videogames, Sports and Technology
+# Hi, I'm Sergio and I am a Developer
+
+
 - 🌱 I’m currently learning Full-Stack Engineer at CodeCademy.
 - 💞️ I’m looking to collaborate on some more projects as a Content Editor for the moment.
 - 📫 How to reach me, here is my email synssn@gmail.com
