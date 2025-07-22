@@ -20,7 +20,7 @@
 **🏢 ORGANISATION:** Freelancer... for now. I'm currently searching for a long terme position 😉
 
 **:mailbox_with_mail: Get in touch :** 
-<a target="_blank" href="https://www.linkedin.com/in/sergio-santamaria-nora/">
+<a href="https://www.linkedin.com/in/sergio-santamaria-nora/"  target="_blank">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
 </a>
 
