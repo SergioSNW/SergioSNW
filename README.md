@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full-Stack Engineer at CodeCademy.
 - 💞️ I’m looking to collaborate on some more projects as a Content Editor for the moment.
 - 📫 How to reach me, here is my email synssn@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_SSN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-santamaria-nora/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Santamaria_Nora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-santamaria-nora/)
 
 **🤔 STATUS:**  Stuck in "Introduction to Algorithms (CLRS) by Thomas H. Cormen..." :seedling:
 
