@@ -1,5 +1,7 @@
 # Hi, I'm Sergio and I am a Developer  :wave:
 
+  [https://github.com/SergioSNW?tab=repositories](./oxana-golubets-cdI3mxAQXZg-unsplash.jpg)
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Santamaria_Nora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-santamaria-nora/)
   [![Web](https://img.shields.io/badge/Web-Portfolio_Web-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sergiosn.com/homepage/)
   <!--[![Email](https://img.shields.io/badge/Web-synssn@gmail.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](synssn@gmail.com)-->
