@@ -11,13 +11,13 @@
 
 **💎 JOB:** Ruby on Rails Fullstack Developer (Freelancer) 
 
-**💻 LANGUAGES:** PHP, Ruby, Javascript, Typescript
+**💻 LANGUAGES:** PHP, Python, Javascript, Typescript
 
-**💻 FRAMEWORKS:** Symfony, Ruby on Rails, Angular, React.JS, Next.JS
+**💻 FRAMEWORKS:** Laravel 11, React.JS, Express.JS, Redux.JS, 
 
-**❤️ HOBBIES:** Philosophy, Litterature, Trail Running, Music, Guitar
+**❤️ HOBBIES:** Videogames, Doggies, Metal and Watches.
 
-**🏢 ORGANISATION:** Freelancer... for now. I'm currently searching for a long terme position 😉
+**🏢 ORGANISATION:** I'm currently searching for a full-time position 😉
 
 **:mailbox_with_mail: Get in touch :** 
 <a href="https://www.linkedin.com/in/sergio-santamaria-nora/"  target="_blank">
