@@ -4,6 +4,8 @@
   [![Web](https://img.shields.io/badge/Web-Portfolio_Web-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sergiosn.com/homepage/)
   <!--[![Email](https://img.shields.io/badge/Web-synssn@gmail.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](mailto:synssn@gmail.com)-->
 
+**:mailbox_with_mail: Get in touch :** synssn@gmail.com 
+
 **🤔 STATUS:**  Stuck in "Introduction to Algorithms (CLRS) by Thomas H. Cormen..." :seedling:
 
 **🐝 FAVORITE QUOTE:**  "It's not whether you get knocked down; it's whether you get up." - Vince Lombardi
@@ -20,14 +22,15 @@
 
 **🏢 ORGANISATION:** I'm currently searching for a full-time position 😉
 
-**:mailbox_with_mail: Get in touch :** 
-<a href="https://www.linkedin.com/in/sergio-santamaria-nora/"  target="_blank">
+
+<!--<a href="https://www.linkedin.com/in/sergio-santamaria-nora/"  target="_blank">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
 </a>
 Or
 <a href="mailto:synssn@gmail.com"  target="_blank">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/email_me.svg" alt="Email" style="vertical-align:top; margin:4px">
 </a>
+-->
 
 
 
